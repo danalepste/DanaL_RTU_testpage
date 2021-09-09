@@ -3,7 +3,7 @@
   <head>
     <meta charset="itf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <header>
       <h1>Cleaning service KALI</h1>
